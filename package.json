@@ -1,0 +1,32 @@
+{
+  "name": "ng2-qgrid-example",
+  "description": "qgrid examples",
+  "homepage": "https://github.com/qgrid/ng2",
+  "dependencies": {
+    "@angular/animations": "11.2.3",
+    "@angular/cdk": "11.2.2",
+    "@angular/common": "11.2.3",
+    "@angular/compiler": "11.2.3",
+    "@angular/core": "11.2.3",
+    "@angular/forms": "11.2.3",
+    "@angular/material": "11.2.2",
+    "@angular/platform-browser": "11.2.3",
+    "@angular/platform-browser-dynamic": "11.2.3",
+    "core-js": "3.9.1",
+    "ng2-qgrid": "^11.0.0",
+    "rxjs": "6.6.6",
+    "tslib": "^2.1.0",
+    "zone.js": "0.11.4"
+  },
+  "version": "11.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.1102.2",
+    "@angular/cli": "11.2.2",
+    "@angular/compiler-cli": "11.2.3",
+    "@types/node": "14.14.31",
+    "ts-node": "9.1.1",
+    "typescript": "4.1.5"
+  }
+}
